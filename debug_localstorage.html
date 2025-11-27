@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Debug Course Data</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .section { margin-bottom: 30px; }
+        .course { border: 1px solid #ccc; padding: 10px; margin: 10px 0; border-radius: 5px; }
+        .error { color: red; }
+        .success { color: green; }
+    </style>
+</head>
+<body>
+    <h1>Course Data Debugger</h1>
+    
+    <div class="section">
+        <h2>Local Storage Courses</h2>
+        <div id="localStorageOutput"></div>
+    </div>
+    
+    <div class="section">
+        <h2>Database Info</h2>
+        <p>Open browser console and run the server debug commands to check database data.</p>
+    </div>
+
+    <script>
+        // Check localStorage data
+        const output = document.getElementById('localStorageOutput');
+        
+        try {
+            // Check courses
+            const courses = localStorage.getItem('aiTutorCourses');
+            if (courses) {
+                try {
+                    const parsed = JSON.parse(courses);
+                    output.innerHTML = '<p class="success">Found ' + parsed.length + ' courses in localStorage:</p>';
+                    parsed.forEach(course => {
+                        const courseDiv = document.createElement('div');
+                        courseDiv.className = 'course';
+                        courseDiv.innerHTML = '<strong>ID:</strong> ' + course.id + '<br>' +
+                                             '<strong>Title:</strong> ' + course.title + '<br>' +
+                                             '<strong>Created:</strong> ' + (course.createdAt || 'N/A');
+                        output.appendChild(courseDiv);
+                    });
+                } catch (e) {
+                    output.innerHTML = '<p class="error">Error parsing courses: ' + e.message + '</p>';
+                }
+            } else {
+                output.innerHTML = '<p>No courses found in localStorage</p>';
+            }
+            
+            // Check progress
+            const progress = localStorage.getItem('studentProgress');
+            if (progress) {
+                try {
+                    const parsed = JSON.parse(progress);
+                    console.log('Student Progress:', parsed);
+                } catch (e) {
+                    console.log('Error parsing progress:', e.message);
+                }
+            }
+        } catch (e) {
+            output.innerHTML = '<p class="error">Error accessing localStorage: ' + e.message + '</p>';
+        }
+    </script>
+</body>
+</html>

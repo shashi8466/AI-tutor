@@ -1,0 +1,32 @@
+Q1. What is the value of x in the equation 2x + 5 = 15?
+
+A) 5
+B) 10
+C) 7.5
+D) 20
+
+Answer: A
+
+Explanation: Subtract 5 from both sides: 2x = 10. Then divide by 2: x = 5.
+
+Q2. Which of the following is a prime number?
+
+A) 15
+B) 23
+C) 27
+D) 33
+
+Answer: B
+
+Explanation: 23 is only divisible by 1 and itself, making it a prime number.
+
+Q3. What is the area of a rectangle with length 8 cm and width 5 cm?
+
+A) 13 cm²
+B) 26 cm²
+C) 40 cm²
+D) 3 cm²
+
+Answer: C
+
+Explanation: Area of rectangle = length × width = 8 × 5 = 40 cm².

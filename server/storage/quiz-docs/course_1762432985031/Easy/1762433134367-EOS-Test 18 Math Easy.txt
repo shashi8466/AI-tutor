@@ -1,0 +1,296 @@
+Q.1) Geometry & Trigonometry, Area and volume
+The area of a rectangle is 2400 square centimeters. The width of the rectangle is 80 centimeters. What is the length, in centimeters, of this rectangle?
+A) 30
+Answer: A
+Explanation:
+The area A_"r "  in square centimeters, of a rectangle is the product of its length l, in centimeters, and its width w, in centimeters;
+Therefore, A-lw.
+Substituting 2400 for A and 80 for w in the equation yields 2400-80l.
+Dividing both sides by 80 yields l-2400/80-30.
+Therefore, the length, in centimeters, of this rectangle is 30 .
+
+
+
+Q.2) Geometry & Trigonometry, Right triangles and trigonometry
+
+In the figure shown, which of the following is equal to cos?(x^° ) ?
+A) 2/r
+B) p/q
+C) r/q
+D) q/r
+Answer: D
+Explanation:
+cos?(x^° )-" Adjacent " /" Hypotennse " 
+The length of the side adjacent to the angle marked x^° is q, and the length of the hypotenuse of the triangle is r. Therefore, cos?(x^° )-q/r.
+Choice A is incorrect: it gives the value of sin?(x^° ), not cos?(x^° ).
+Choice B is incorrect: it gives the value of tan?(x^° ), not cos?(x^° ).
+Choice C is incorrect: it gives the value of 1/(cos?(x^° ) ), not cos?(x^° ).
+
+
+Q.3) Algebra, Linear functions
+The product of p and 5 is q less than 8 . Which equation represents the relationship between p and  ?
+A) 5p-q-8
+B) 5p-8-q
+C) 2/5-q-8
+D) p/5-8-q
+Answer: B
+Explanation:
+The product (multiplication) of p and 5 is written as 5p. Again, q less than 8 is 8-q. Equating the two, we get 5p-8-q
+Choice A is incorrect: it represents the relationship "the product of p and 5 is 8 less than q."
+Choice C is incorrect: it represents the relationship "the quotient of p and 5 is 8 less than q."
+Choice D is incorrect: it represents the relationship "the quotient of p and 5 is q less than 8 ."
+
+
+Q.4) Algebra, Systems of two linear equations in two variables
+¦(q-12p-28@3q-24)
+What is the solution (p,q) to the given system of equations?
+A) (8,3)
+B) (8,12)
+C) (3,8)
+D) (12,8)
+Answer: C
+Explanation:
+Dividing both sides of the second equation by 3 , we get q-8.
+Substituting q-8 into the first equation, we get 8-12p-28
+Or, 12p-28-8
+Adding 28 to both sides yields 12p-36
+Dividing both sides by 12 , we get p-3.
+Therefore, (p,q) is (3,8).
+Choice A is incorrect: it gives the ordered pair (q,p), not (p,q).
+Choices B and D are incorrect, and may have resulted from conceptual or calculation errors.
+
+
+Q.5) Advanced Math, Equivalent expressions
+The expression -32x^2+19x^2 is equivalent to ax^2, where a is a constant. What is the value of  ?
+A) -51
+B) -13
+C) 13
+D) 51
+Answer: B
+Explanation:
+The expression -32x^2+19x^2 can be simplified by combining the like terms as (-32+19)x^2--13x^2.
+Comparing this with ax^2, we have a--13.
+Choices A, C, and D are incorrect, and may have resulted from incorrectly adding the coefficients.
+
+Q.6) Advanced Math, Equivalent expressions
+Which expression is equivalent to 20p^2+8pq ?
+A) 4p(5p+2q)
+B) 4p(5p^2+2q)
+C) 8p(2p+q)
+D) 20p(p+4q)
+Answer: A
+Explanation:
+The Greatest Common Factor (GCF) of 20 and 8 is 4 , and the GCF of p^2 and pq is p.
+Therefore, the given expression 20p^2+8pq can be factored by taking out the common factor of 4p, resulting in 4p(5p+2q).
+Choice B is incorrect: it is equivalent to 20p^3+8pq, not 20p^2+8pq.
+Choice C is incorrect: it is equivalent to 16p^2+8pq, not 20p^2+8pq.
+Choice D is incorrect: it is equivalent to 20p^2+80pq, not 20p^2+8pq.
+
+Q.7) Algebra, Linear equations in one variable
+A laboratory researcher recorded the accumulation of sediment in a tank over 6 days. The total accumulation was initially measured to be 72 grams. After recalculating for measurement errors, the researcher found that the actual accumulation was 18 grams less. What was the corrected amount of sediment accumulation, in grams, per day?
+A) 3
+B) 9
+C) 12
+D) 15
+Answer: B
+Explanation:
+The initial measurement was 72 grams, but after accounting for an 18-gram measurement error, the corrected total accumulation is 72-18-54 grams. The observation lasted for 6 days.
+The corrected amount of sediment accumulation per day can be found by dividing the corrected total by 6 . Therefore, the corrected amount, in grams, per day is 54/6-9.
+Choice A is incorrect, and may have resulted from incorrectly dividing the decrease in the sediment by the number of days.
+Choice C is incorrect, and may have resulted from incorrectly dividing the initial sediment measured by the number of days without accounting for the error. Choice D is incorrect, and may have resulted from incorrectly dividing the sum of the initial measured sediment and the decrease by the number of days.
+
+Q.8) Advanced Math, Nonlinear equations in one variable and systems of equations in two variables
+In a conservation project, the final bird count C_f, after a year was determined by the formula C_f-Rm+150, where R is the average monthly increase in the number of birds, m is the number of months, and 150 is the initial bird count. Which equation gives the average monthly increase in terms of the final count and the number of months?
+A) R-(C_f+150)/m
+B) R-150/(C_f-m)
+C) R-C_f m-150
+D) R-(C_f-150)/m
+Answer: D
+Explanation:
+Given: C_f-Rm+150
+Subtracting 150 from both sides yields C_f-150-Rm
+Or, Rm-C_f-150
+Dividing both sides by m yields R-(C_f-150)/m
+Choice A is incorrect: it inaccurately adds 150 instead of subtracting it from the final count before dividing by m.
+Choice B is incorrect: it improperly calculates R by dividing the initial count by the difference between the final count and the number of months, which doesn't align with the formula's structure.
+Choice C is incorrect: it suggests a multiplication that does not fit the relationship described by the given formula.
+
+Q.9) Algebra, Linear equations in one variable
+px+q=px-r
+In the given equation, p,q, and r are constants. If the equation has infinitely many solutions, which of the following must be true?
+A) q=r
+B) q/r=0
+C) q=-r
+D) qr=1
+Answer: C
+Explanation:
+Given: px+q=px-r
+Subtracting px from both sides of the equation yields q=-r.
+As the equation has infinitely many solutions, the statement above must be true.
+Choices A, B, and D are incorrect, and may have resulted from conceptual or calculation errors.
+
+Q.10) Algebra, Linear functions
+T=2h+18
+The given equation represents the temperature T, in degrees Celsius, in a greenhouse h hours after 6 AM , where 0<h=8. Which of the following is the best interpretation of 18 in this context?
+A) The temperature increases by 18 degrees Celsius every hour.
+B) The temperature increases by 2h degrees Celsius every 18 hours.
+C) The temperature was 18 degrees Celsius at 6 AM.
+D) The temperature decreases by 18 degrees Celsius over 8 hours.
+Answer: C
+Explanation:
+In the given equation, T represents the temperature in degrees Celsius in the greenhouse h hours after 6 AM . Substituting h=0 in the given equation yields T=18, which means the initial temperature at 6 AM before any hourly increases are accounted for was 18 degrees Celsius.
+Choice A is incorrect: it misinterprets 18 as the slope of the graph of the given function instead of the initial temperature at 6 AM . Choices B and D are incorrect, and may have resulted from conceptual errors.
+
+Q.11) Algebra, Linear functions
+If p is the function defined by p(x)=(9x+5)/5, what is the value of p(4) ?
+A) 8.2
+B) 12.2
+C) 37
+D) 41
+Answer: A
+Explanation:
+If p(x)=(9x+5)/5, then p(4)=(9(4)+5)/5=(36+5)/5=41/5=8.2.
+Choice B is incorrect and may have resulted from dividing only 9x by 5 and adding 5 to the result, instead of dividing 9x+5 by 5 .
+Choice C is incorrect and may have resulted from dividing only 5 by 5 and adding the result to 9x, instead of dividing 9x+5 by 5 .
+Choice D is incorrect and may have resulted from adding 5 to 9x without dividing by 5 .
+
+Q.12) Problem Solving & Data Analysis, Ratios rates proportional relationships and units
+A group of environmental scientists measured the rate of water filtration through different soil types. In one experiment, they observed that 24 liters of water filtered through a sandy soil column in 3 hours. At this rate, how many liters of water are filtered through the sandy soil per day?
+A) 8
+B) 96
+C) 144
+D) 192
+Answer: D
+Explanation:
+In 3 hours, 24 liters of water filtered through the soil column. Therefore, in 1 hour, 24/3=8 liters of water filters through the soil column. As there are 24 hours in a day, 8×24=192 liters of water per day is filtered through the soil column.
+Choice A is incorrect: it gives the number of liters of water filtered through the soil per hour, not per day.
+Choices B and C are incorrect, and may have resulted from conceptual or calculation errors.
+
+Q.13) Advanced Math, Nonlinear functions
+
+The graph of the function f, where y=f(x), is shown. Which of the following could be the value of (-2) ?
+A) -6
+B) 0
+C) 4
+D) 10
+Answer: A
+Explanation:
+f(-2) is the y-value on the graph when x=-2. As seen from the graph, when x=-2, the corresponding value of y is close or equal to -6 . Therefore, f(-2) could be equal to -6 .
+Choices B, C, and D are incorrect, and may have resulted from conceptual errors or errors in reading the values on the graph.
+
+Q.14) Problem Solving & Data Analysis, Two-variable data: models and scatterplots
+
+The scatterplot above shows the speed of a train v, in meters per second, and the time t, in minutes, over a period of 10 minutes after it started from a station. During the 10 -minute period shown, how many minutes after the train started from the station was its speed the maximum?
+A) 8
+Answer: A
+Explanation:
+The maximum speed occurred when the value on the v-axis was the largest. The largest value on the v-axis occurred when the value along the t-axis was 8 minutes. Hence, during the 10 -minute period shown, 8 minutes after the train started from the station, its speed was the maximum.
+
+Q.15) Algebra, Linear equations in one variable
+What value of p satisfies the equation 3p+45=30 ?
+A) -25
+B) -5
+C) 5
+D) 25
+Answer: B
+Explanation:
+Subtracting 45 from both sides of the given equation yields 3p=-15. Dividing both sides of this equation by 3 yields p=-5.
+Choice A is incorrect, and may have resulted from incorrectly subtracting 45 from -30 instead of 30 .
+Choice C is incorrect, and may have resulted from incorrectly subtracting 30 from 45 instead of 45 from 30 .
+Choice D is incorrect, and may have resulted from incorrectly adding 45 to 30 instead of subtracting 45 from 30 .
+
+Q.16) Geometry & Trigonometry, Circles
+An equation of a circle in the xy-plane is (x-1)^2+(y-1)^2=196. What is the length of the radius of the circle?
+A) 14
+Answer: A
+Explanation:
+A circle with center (h,k) and radius r has an equation (x-h)^2+(y-k)^2=r^2 in the xy-plane. Comparing the given equation with the equation above, we get r^2=196?r=v196=14.
+Therefore, the length of the radius of the circle is 14 .
+
+Q.17) Algebra, Systems of two linear equations in two variables
+In the xy-plane, the graph of y+6=x+11 intersects the graph of y=3x+13 at the point (x_1,y_1 ). What is the value of x_1 ?
+A) -4
+Answer: A
+Explanation:
+Subtracting 6 from both sides of the first equation yields y=x+5.
+Substituting this into the second equation yields x+5=3x+13.
+Subtracting x from both sides yields
+5=2x+13
+Subtracting 13 from both sides yields
+-8=2x" or " 2x=-8
+Dividing both sides by 2 yields x=-4
+Therefore, x_1=-4
+
+Q.18) Advanced Math, Nonlinear functions
+f(x)=(3/5)^(1-2x)
+If the given function f is graphed in the xy-plane, where y=f(x), what is the y-coordinate of the y-intercept of the graph?
+A) 3/5
+ Answer: A
+Explanation:
+As the x-coordinate of the y-intercept is 0 , substituting 0 for x into the given equation will give the y-coordinate of the y-intercept. f(0)=(3/5)^(1-2(0))=(3/5)^1=3/5
+Therefore, the y-coordinate of the y-intercept of the graph is 3/5.
+
+Q.19) Algebra, Linear inequalities in one or two variables
+A factory produces 360 to 450 widgets in 10 days. At this rate, which inequality represents the number of widgets, w, produced over a period of 12 days?
+A) 432=w=540
+B) 36=w=45
+C) 300=w=375
+D) 362=w=452
+Answer: A
+Explanation:
+The number of widgets produced in 10 days is 360 to 450 .
+Therefore, the number of widgets produced in 1 day is 36 to 45 .
+Therefore, the number of widgets produced in 12 days is 36×12=432 to 45×12=540.
+So we have 432=w=540.
+Choice B is incorrect: it represents the number of widgets produced in 1 day, not 12 days.
+Choice C is incorrect, and may have resulted from multiplying 360 and 450 by 5/6 instead of 6/5 while trying to convert the figures from 10 days to 12 days directly.
+Choice D is incorrect: it adds the difference between 12 and 10 to the numbers produced in 10 days.
+
+Q.20) Algebra, Linear equations in two variables
+A company tracks the fuel expenses for its fleet, which includes electric cars and diesel trucks. The fleet comprises 45 electric cars and 80 diesel trucks. The total fuel cost per month for these vehicles is $9,800. The equation 45c+80t=9,800 represents this situation. Which of the following is the best interpretation of t in this context?
+A) The average fuel cost per month, in dollars, for each electric car
+B) The total fuel cost per month, in dollars, for the electric cars
+C) The average fuel cost per month, in dollars, for each diesel truck
+D) The total fuel cost per month, in dollars, for the diesel trucks
+Answer: C
+Explanation:
+In the equation 45c+80t=9,800, the right-hand side represents the total cost per month in dollars. Therefore, each term on the left-hand side must also represent a dollar amount.
+As the term 80t represents a dollar amount, where 80 represents the number of diesel trucks, the unit of t must be dollars per diesel truck. This is the average fuel cost per month for each diesel truck.
+Choice A is incorrect: the average fuel cost per month, in dollars, for each electric car is denoted by c, not t.
+Choice B is incorrect: the total fuel cost per month, in dollars, for the electric cars is denoted by 45c, not t.
+Choice D is incorrect: the total fuel cost per month for the diesel trucks is denoted by 80t, not t.
+
+Q.21) Algebra, Linear functions
+YearProduction (gallons)20153502020250The table above shows the annual production of a small honey farm in gallons, for the years 2015 and 2020. If the relationship between production and year is linear, which of the following functions H models the honey production, in gallons, t years after 2015?
+A) H(t)=350-20(t-2015)
+B) H(t)=350-20t
+C) H(t)=350-20(2015-t)
+D) H(t)=350+20t
+  Answer: B
+Explanation:
+As the function H is linear, it can be represented as H(t)=mt+b, where m is the slope and b is the initial production when t=0 (year 2015). Thus, b=350 gallons.
+To find the slope m, we use the change in production from 2015 to 2020 as:
+m=(H(5)-H(0))/(2020-2015)=(250-350)/5=-20.
+This gives the function H(t)=-20t+350, or H(t)=350-20t
+Choice A is incorrect, and may have resulted from misunderstanding the correct base year adjustment.
+Choice C is incorrect, and may have resulted from misunderstanding the correct base year adjustment as well as its sign.
+Choice D is incorrect: it shows a function with a slope of 20 instead of -20 .
+
+Q.22) Geometry & Trigonometry, Lines angles and triangles
+
+In the figure shown, ¯AB is parallel to ¯QP and p is a positive constant. What is the length of ¯BQ ?
+A) 2
+B) 2.5
+C) 4
+D) 7.5
+Answer: D
+Explanation:
+As ¯AB is parallel to ¯QP.?ABO is congruent to ?OQP (alternate interior angles), ?BAO is congruent to ?QPO (alternate interior angles), and ?AOB is congruent to ?POQ (vertical angles).
+Therefore, triangle ABO is similar to triangle PQO. Therefore, AO/PO=BO/QO
+¦(& ?(2p+6)/(p+3)=5/QO@& ?(2(p+3))/(p+3)=5/QO@& ?2=5/QO)
+Therefore, QO=OQ=5/2=2.5
+BQ=BO+OQ=5+2.5=7.5
+Choice A is incorrect: it is the scale factor between the two similar triangles, not the length of ¯BQ.
+Choice B is incorrect: it is the length of ¯OQ., not the length of ¯BQ.
+Choice C is incorrect, and may have resulted from conceptual or calculation errors.
+

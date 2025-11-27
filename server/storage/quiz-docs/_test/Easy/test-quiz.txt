@@ -1,0 +1,14 @@
+﻿Q.1)Geometry & Trigonometry, Area and volume
+The area of a rectangle is 2400 square centimeters. The width is 80 centimeters. What is the length?
+A)30
+Answer: 30
+Explanation: Area = length × width. 2400 = 80 × l. l = 30.
+
+Q.2)Algebra, Linear functions  
+The product of p and 5 is q less than 8. Which equation represents this?
+A)5p-q=8
+B)5p=8-q
+C)p/5-q=8
+D)p/5=8-q
+Answer: B
+Explanation: 5p = 8-q

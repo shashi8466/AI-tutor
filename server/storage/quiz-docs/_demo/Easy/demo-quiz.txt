@@ -1,0 +1,25 @@
+﻿Q.1)Geometry & Trigonometry, Area and volume
+The area of a rectangle is 2400 square centimeters. The width is 80 centimeters. What is the length?
+A)30
+Answer: 30
+Explanation: Area = length × width. Therefore 2400 = 80l, so l = 30.
+
+Q.2)Geometry & Trigonometry, Right triangles and trigonometry
+{image1.png}
+In the figure shown, which of the following is equal to cos(x°)?
+A)2/r
+B)p/q
+C)r/q
+D)q/r
+Answer: D
+Explanation: cos(x°) = Adjacent/Hypotenuse = q/r
+
+Q.3)Algebra, Systems of equations
+{table1.png}
+What is the solution (p,q) to the given system of equations?
+A)(8,3)
+B)(8,12)
+C)(3,8)
+D)(12,8)
+Answer: C
+Explanation: Solving the system gives p=3, q=8
